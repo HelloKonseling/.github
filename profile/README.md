@@ -39,13 +39,13 @@ Walaupun aplikasi **sederhana**, proyek ini menjadi media pembelajaran bagaimana
 
 Organisasi ini berisi beberapa repository yang membangun satu ekosistem:
 
-### Frontend utama untuk pengguna, dibangun dengan modern web stack.
+- Frontend utama untuk pengguna, dibangun dengan modern web stack.
 
-### Aplikasi admin untuk mengelola konten.
+- Aplikasi admin untuk mengelola konten.
 
-### Backend API yang melayani data untuk web & dashboard.
+- Backend API yang melayani data untuk web & dashboard.
 
-### **Infra / Workflows / Eksperimen**  Repo tambahan untuk CI/CD, workflows GitHub Actions, dan dokumentasi teknis.
+- **Infra / Workflows / Eksperimen**  Repo tambahan untuk CI/CD, workflows GitHub Actions, dan dokumentasi teknis.
 
 ---
 
